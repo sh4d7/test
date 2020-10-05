@@ -1,0 +1,10 @@
+diff a/kadai000/style.css b/kadai000/style.css	(rejected hunks)
+@@ -94,7 +94,7 @@
+ }
+ 
+ /* reset.CSS */
+-
++/* コメント追加 */
+ html {
+   background-color: #f3f3f3;
+ }
